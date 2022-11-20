@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: 	#44281d;
+    font-family: 'Roboto Mono', monospace;
+}
+.imagem-personagem {
+    width: 200px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem 0;
+}
+.card-personagem {
+    margin: 1.5rem;
+    text-align: center;
+    background-color:#97ce4c;
+    padding: 0.5rem;
+    border-radius: 5px;
+    height: 15rem;
+}
+
+.imagem-personagem {
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner-imagem {
+    width: 400px;
+}
+
+.nome-personagem {
+    font-weight: 700;
+    width: 200px;
+}
